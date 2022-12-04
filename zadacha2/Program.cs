@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//start
+Console.Clear();
+double chetnechet = 6;
+if(chetnechet%2==0)
+{
+    Console.Write($"число {chetnechet} является четным");
+    }
+//stop
